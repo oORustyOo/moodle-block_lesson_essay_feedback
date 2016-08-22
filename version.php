@@ -16,3 +16,4 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 $plugin->version = 2011092400;
+$plugin->component = 'block_lesson_essay_feedback';
